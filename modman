@@ -1,0 +1,11 @@
+js/mage/adminhtml/moneybookers.js                                   js/mage/adminhtml/moneybookers.js
+skin/adminhtml/default/default/images/moneybookers/                 skin/adminhtml/default/default/images/moneybookers/
+skin/frontend/base/default/images/moneybookers/                     skin/frontend/base/default/images/moneybookers/
+app/locale/en_US/Phoenix_Moneybookers.csv                           app/locale/en_US/Phoenix_Moneybookers.csv
+app/locale/en_US/template/email/moneybookers_activateemail.html     app/locale/en_US/template/email/moneybookers_activateemail.html
+app/etc/modules/Phoenix_Moneybookers.xml                            app/etc/modules/Phoenix_Moneybookers.xml
+app/design/frontend/base/default/template/moneybookers/             app/design/frontend/base/default/template/moneybookers/
+app/design/frontend/base/default/layout/moneybookers.xml            app/design/frontend/base/default/layout/moneybookers.xml
+app/design/adminhtml/default/default/template/moneybookers/         app/design/adminhtml/default/default/template/moneybookers/
+app/design/adminhtml/default/default/layout/moneybookers.xml        app/design/adminhtml/default/default/layout/moneybookers.xml
+app/code/community/Phoenix/Moneybookers/                            app/code/community/Phoenix/Moneybookers
